@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhiyuan LYU"
-  pronouns         : # example: "she/her"  
+  name             : "Zhiyuan Lyu"
+  #pronouns         : # example: "she/her"  
   bio              : "Postdoc in CUHK"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
