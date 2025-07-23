@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Zhiyuan Lyu is a postdoc fellow in the Department of Mathematics at the Chinese University of Hong Kong.
+
