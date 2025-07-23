@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Zhiyuan LYU is a postdoc researcher in the Department of Mathematics at the Chinese University of Hong Kong. My
+Hi, my name is Zhiyuan Lyu. I am now a postdoctoral researcher in the Department of Mathematics at the Chinese University of Hong Kong, advised by Prof. Gary Pui Tung CHOI. I obtained my  Ph.D. in Applied Mathematics from the Chinese University of Hong Kong in 2024, advised by Prof. Ronald Lok Ming Lui. Prior to this, I received my master’s and bachelor’s degrees in Computational Mathematics from Harbin Institute of Technology in 2021 and 2019, respectively.
 
