@@ -1,5 +1,5 @@
 ---
-title: "A two-stage algorithm for combined quasiconformal and optimal mass transportation spherical parameterization"(https://link.intlpress.com/JDetail/1806620813166092290)
+title: "A two-stage algorithm for combined quasiconformal and optimal mass transportation spherical parameterization"
 authors: Zhiyuan Lyu, Qiguang Chen, Lok Ming Lui
 collection: publications
 permalink: /publication/2023-paper-title-number-2
