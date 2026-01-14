@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, my name is Zhiyuan Lyu. I am now a postdoctoral researcher in the Department of Mathematics at The Chinese University of Hong Kong (CUHK), advised by [Prof. Gary Pui Tung CHOI](https://www.math.cuhk.edu.hk/~ptchoi/index.html). I received my Ph.D. degree from the Department of Mathematics at CUHK in 2024, proudly advised by [Prof. Ronald Lok Ming LUI] (http://www.lokminglui.com/). Before that, I received my master's and bachelor's degrees from the Harbin Institute of Technology (HIT). 
 
 A data-driven personal website
 ======
