@@ -1,7 +1,6 @@
 ---
 title: "A two-stage algorithm for combined quasiconformal and optimal mass transportation spherical parameterization"
 authors: Zhiyuan Lyu, Qiguang Chen, Lok Ming Lui
-collection: publications
 permalink: /publication/2023-paper-title-number-2
 category: published paper
 Journal: 'Journal of Mathematics, Computation and Geometry of Data'
