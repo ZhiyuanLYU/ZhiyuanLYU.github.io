@@ -8,6 +8,8 @@ redirect_from:
 ---
 Hi, my name is Zhiyuan Lyu. I am now a postdoctoral researcher in the Department of Mathematics at The Chinese University of Hong Kong (CUHK), advised by [Prof. Gary Pui Tung CHOI](https://www.math.cuhk.edu.hk/~ptchoi/index.html). I received my Ph.D. degree from the Department of Mathematics at CUHK in 2024, proudly advised by [Prof. Ronald Lok Ming LUI](http://www.lokminglui.com/). Before that, I received my master's and bachelor's degrees from the Harbin Institute of Technology (HIT). 
 
+My research focuses on computational geometry, medical imaging, mathematical geometry processing, and scientific computing. 
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
