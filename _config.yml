@@ -90,7 +90,7 @@ publication_category:
     title: 'preprint'    
   conferences:
     title: 'conference'
-    journal:
+  journal:
     title: 'journal'
 
 # Site Settings
