@@ -4,7 +4,7 @@ authors: Zhiyuan Lyu, Gary P. T. Choi, Lok Ming Lui
 permalink: /publication/2024-paper-title-number-1
 category: journal
 venue: 'SIAM Journal on Imaging Sciences'
-date: 2024
+date: 2024-01-01
 paperurl: 'https://epubs.siam.org/doi/10.1137/23M1614964'
 citation: 'Zhiyuan Lyu, Gary P. T. Choi, Lok Ming Lui. (2024). "Bijective Density-Equalizing Quasiconformal Map for Multiply Connected Open Surfaces." <i>SIAM Journal on Imaging Sciences</i>, 17(1), 706-755.'
 excerpt: "Density-equalizing maps are a class of mapping methods in which the shape deformation is driven by prescribed density information. However, the bijectivity and local geometric distortions of the mappings are often uncontrolled, and prior work mainly addresses simply-connected surfaces rather than those with more complex topologies. This paper presents a novel approach for computing bijective density-equalizing quasiconformal (DEQ) flattening maps for multiply-connected open surfaces."
