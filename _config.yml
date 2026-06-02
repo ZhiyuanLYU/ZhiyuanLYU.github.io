@@ -313,6 +313,10 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -323,6 +327,10 @@ whitelist:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
 
 
 # Archives
