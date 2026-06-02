@@ -25,5 +25,4 @@ My research focuses on computational geometry, medical imaging, mathematical geo
 
 - **Email**: zylyu@link.cuhk.edu.hk
 - **Address**: G07, Lady Shaw Building, The Chinese University of Hong Kong, Shatin, Hong Kong
-- **Tel**: (852) 5638 3174
 

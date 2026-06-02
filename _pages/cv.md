@@ -48,6 +48,14 @@ Teaching
   * Mathematics Laboratory, MATH2040 (2024.01 - 2024.06)
   * Mathematics Enhancement for Teachers, MATH5620 (2023.08 - 2023.12)
   * Mathematics Laboratory, MATH2040 (2023.01 - 2023.06)
+  * Linear Algebra, MATH1030 (2022.08 - 2022.12)
+  * General Mathematics, MATH1020 (2021.08 - 2021.12)
+  * Calculus for Engineers, MATH1510 (2021.08 - 2021.12)
+
+Skills
+======
+* Programming: MATLAB, Python, LaTeX
+* Languages: Mandarin (native), English (CET6, IELTS)
 
 Awards and Honors
 ======

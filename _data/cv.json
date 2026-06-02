@@ -2,7 +2,7 @@
   "basics": {
     "name": "Zhiyuan Lyu",
     "email": "zylyu@link.cuhk.edu.hk",
-    "phone": "(852) 5638 3174",
+    "phone": "",
     "website": "https://ZhiyuanLYU.github.io",
     "summary": "Postdoctoral Fellow in the Department of Mathematics at The Chinese University of Hong Kong, working on computational geometry, medical imaging, and mathematical geometry processing.",
     "location": {
@@ -76,8 +76,23 @@
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["MATLAB", "Python", "LaTeX"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "CET6, IELTS"
+    }
+  ],
   "interests": [
     {
       "name": "Research Interests",
@@ -134,7 +149,43 @@
       "summary": "With Q. G. Chen and L. M. Lui."
     }
   ],
-  "presentations": [],
+  "presentations": [
+    {
+      "name": "Density-Equalizing Quasi-conformal Mapping with Applications",
+      "event": "SIAM Conference on Computational Geometric Design (GD25)",
+      "date": "2025",
+      "location": "Montréal, Québec, Canada",
+      "description": "Oral Presentation"
+    },
+    {
+      "name": "Density-Equalizing Quasiconformal Maps with Applications",
+      "event": "East Asia Section of SIAM (EASIAM 2024), University of Macau",
+      "date": "2024",
+      "location": "Macao SAR, China",
+      "description": "Oral Presentation"
+    },
+    {
+      "name": "Density-Equalizing Quasiconformal Mapping with Application",
+      "event": "CUHK Science Faculty Postgraduate Research Day",
+      "date": "2024",
+      "location": "Hong Kong",
+      "description": "Oral Presentation"
+    },
+    {
+      "name": "Quasi-conformal Density-Equalizing Map with Applications",
+      "event": "SIAM Conference on Imaging Science (SIAMIS24)",
+      "date": "2024",
+      "location": "Atlanta, GA, USA",
+      "description": "Oral Presentation"
+    },
+    {
+      "name": "Bijective Density-Equalizing Quasiconformal Map for Multiply-Connected Open Surfaces",
+      "event": "The 10th International Congress on Industrial and Applied Mathematics (ICIAM 2023)",
+      "date": "2023",
+      "location": "Tokyo, Japan",
+      "description": "Poster Presentation"
+    }
+  ],
   "teaching": [
     {
       "course": "Mathematics Laboratory, MATH2040",
@@ -156,6 +207,27 @@
       "date": "2023-01",
       "role": "Teaching Assistant",
       "description": "2023.01 - 2023.06"
+    },
+    {
+      "course": "Linear Algebra, MATH1030",
+      "institution": "Department of Mathematics, The Chinese University of Hong Kong",
+      "date": "2022-08",
+      "role": "Teaching Assistant",
+      "description": "2022.08 - 2022.12"
+    },
+    {
+      "course": "General Mathematics, MATH1020",
+      "institution": "Department of Mathematics, The Chinese University of Hong Kong",
+      "date": "2021-08",
+      "role": "Teaching Assistant",
+      "description": "2021.08 - 2021.12"
+    },
+    {
+      "course": "Calculus for Engineers, MATH1510",
+      "institution": "Department of Mathematics, The Chinese University of Hong Kong",
+      "date": "2021-08",
+      "role": "Teaching Assistant",
+      "description": "2021.08 - 2021.12"
     }
   ],
   "portfolio": []
