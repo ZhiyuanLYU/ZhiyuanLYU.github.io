@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 3.10'
 gem 'jekyll-feed'
+gem 'jekyll-gist'
+gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jekyll-seo-tag'
