@@ -310,6 +310,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-optional-front-matter
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -318,6 +320,8 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-optional-front-matter
 
 
 # Archives
