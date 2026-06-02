@@ -5,7 +5,7 @@ permalink: /publication/2026-paper-title-number
 category: 'preprint'
 venue: 'arXiv preprint'
 date: 2026-01-01
-paperurl: 'https://arxiv.org/abs/2603.19240'
+paperurl: ''
 citation: 'Zhiyuan Lyu, Gary P. T. Choi. (2026). "Beltrami Coefficient and Angular Distortion of Discrete Geometric Mappings." <i>arXiv preprint arXiv:2603.19240</i>.'
 excerpt: "Conformal mappings preserve angles and hence the local geometry, making them valuable across applications in geometry processing and medical imaging. Two key metrics for measuring conformal distortion are angular distortion and the Beltrami coefficient from quasi-conformal theory, yet the precise connection between these two concepts has not been analyzed. This paper bridges this gap by establishing theoretical results linking the two."
 ---
