@@ -1,13 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3'
-gem 'jekyll-feed'
-gem 'jekyll-sitemap'
-gem 'jekyll-redirect-from'
-gem 'jekyll-seo-tag'
-gem 'jekyll-optional-front-matter'
-gem 'jekyll-readme-index'
-gem 'jekyll-default-layout'
-gem 'jekyll-titles-from-headings'
-gem 'jekyll-relative-links'
+gem 'github-pages', group: :jekyll_plugins
 gem 'webrick', '~> 1.8'
