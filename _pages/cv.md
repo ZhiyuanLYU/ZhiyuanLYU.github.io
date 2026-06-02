@@ -58,4 +58,4 @@ Awards and Honors
 
 Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for journals in computational mathematics and imaging sciences
