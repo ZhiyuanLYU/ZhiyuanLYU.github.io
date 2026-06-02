@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Density-Equalizing Quasi-conformal Mapping with Applications<br />SIAM Conference on Computational Geometric Design (GD25); Montr\u00e9al, Qu\u00e9bec, Canada",
+    45.5031824,
+    -73.5698065
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Density-Equalizing Quasiconformal Maps with Applications<br />East Asia Section of SIAM (EASIAM 2024), University of Macau; Macao SAR, China",
+    22.2956373,
+    113.936482
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Bijective Density-Equalizing Quasiconformal Map for Multiply-Connected Open Surfaces<br />The 10th International Congress on Industrial and Applied Mathematics (ICIAM 2023); Tokyo, Japan",
+    35.6768601,
+    139.7638947
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Density-Equalizing Quasiconformal Mapping with Application<br />CUHK Science Faculty Postgraduate Research Day; Hong Kong",
+    22.2818333,
+    114.1582831
+  ],
+  [
+    "Quasi-conformal Density-Equalizing Map with Applications<br />SIAM Conference on Imaging Science (SIAMIS24); Atlanta, GA, USA",
+    33.7544657,
+    -84.3898151
   ]
 ];
