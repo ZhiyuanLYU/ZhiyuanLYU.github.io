@@ -188,6 +188,14 @@
   ],
   "teaching": [
     {
+      "course": "Linear Algebra II, MATH2040A",
+      "institution": "Department of Mathematics, The Chinese University of Hong Kong",
+      "date": "2026-09",
+      "role": "Instructor",
+      "description": "2026/27, Term 1",
+      "url": "https://www.math.cuhk.edu.hk/course/2627/math2040a"
+    },
+    {
       "course": "Mathematics Laboratory, MATH2040",
       "institution": "Department of Mathematics, The Chinese University of Hong Kong",
       "date": "2024-01",

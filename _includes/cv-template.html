@@ -218,6 +218,9 @@
           {% if teaching.description %}
           <div class="cv-item-detail">{{ teaching.description }}</div>
           {% endif %}
+          {% if teaching.url %}
+          <div class="cv-item-detail"><a href="{{ teaching.url }}">Course webpage</a></div>
+          {% endif %}
         </div>
       </li>
       {% endfor %}

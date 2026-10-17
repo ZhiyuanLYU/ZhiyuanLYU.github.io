@@ -44,6 +44,9 @@ Talks
 
 Teaching
 ======
+* Instructor, Department of Mathematics, CUHK
+  * [Linear Algebra II, MATH2040A](https://www.math.cuhk.edu.hk/course/2627/math2040a) (2026/27, Term 1)
+
 * Teaching Assistant, Department of Mathematics, CUHK
   * Mathematics Laboratory, MATH2040 (2024.01 - 2024.06)
   * Mathematics Enhancement for Teachers, MATH5620 (2023.08 - 2023.12)
