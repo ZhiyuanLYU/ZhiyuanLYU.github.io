@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * Ph.D. in Applied Mathematics, The Chinese University of Hong Kong, 2021-2024
-  * Advisor: Prof. Ronald Lok Ming Lui
+  * Advisor: [Prof. Ronald Lok Ming Lui](http://www.lokminglui.com/)
   * Thesis: "Novel Mathematical Approaches for Surface Parameterization with Applications"
 * M.Phil. in Computational Mathematics, Harbin Institute of Technology, 2019-2021
 * B.Sc. in Mathematics, Harbin Institute of Technology, 2015-2019
