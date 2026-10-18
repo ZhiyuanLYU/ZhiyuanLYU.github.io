@@ -17,7 +17,7 @@ My research focuses on computational geometry, medical imaging, mathematical geo
 
 ## Teaching
 
-In Term 1 of 2026/27, I am the instructor for [MATH2040A — Linear Algebra II](https://www.math.cuhk.edu.hk/course/2627/math2040a). See my [teaching experience]({{ '/teaching/' | relative_url }}) for more details.
+In Term 1 of 2026/27, I am the instructor for [MATH2040A — Linear Algebra II](https://www.math.cuhk.edu.hk/course/2627/math2040a).
 
 ## Education
 

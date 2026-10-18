@@ -5,22 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<p>Department of Mathematics, The Chinese University of Hong Kong</p>
 
-<h2>Instructor</h2>
-<hr />
-
-{% for post in site.teaching reversed %}
-  {% if post.type == "Instructor" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-<h2>Teaching Assistant</h2>
-<hr />
-
-{% for post in site.teaching reversed %}
-  {% if post.type == "Teaching Assistant" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+{% include teaching-list.html %}

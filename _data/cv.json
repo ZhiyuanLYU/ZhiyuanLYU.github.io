@@ -80,7 +80,11 @@
     {
       "name": "Programming",
       "level": "",
-      "keywords": ["MATLAB", "Python", "LaTeX"]
+      "keywords": [
+        "MATLAB",
+        "Python",
+        "LaTeX"
+      ]
     }
   ],
   "languages": [
@@ -124,28 +128,28 @@
       "name": "Ellipsoidal Density-Equalizing Map for Genus-0 Closed Surfaces",
       "publisher": "Advances in Computational Mathematics, 52, 30",
       "releaseDate": "2026",
-      "website": "",
+      "website": "https://link.springer.com/article/10.1007/s10444-026-10304-9",
       "summary": "With L. M. Lui and G. P. T. Choi."
     },
     {
       "name": "Spherical Density-Equalizing Map for Genus-0 Closed Surfaces",
       "publisher": "SIAM Journal on Imaging Sciences, 17(4), 2110-2141",
       "releaseDate": "2024",
-      "website": "",
+      "website": "https://epubs.siam.org/doi/10.1137/24M1633911",
       "summary": "With L. M. Lui and G. P. T. Choi."
     },
     {
       "name": "Bijective Density-Equalizing Quasiconformal Map for Multiply-Connected Open Surfaces",
       "publisher": "SIAM Journal on Imaging Sciences, 17(1), 706-755",
       "releaseDate": "2024",
-      "website": "",
+      "website": "https://epubs.siam.org/doi/10.1137/23M1594376",
       "summary": "With G. P. T. Choi and L. M. Lui."
     },
     {
       "name": "A Two-Stage Algorithm for Combined Quasiconformal and Optimal Mass Transportation Spherical Parameterization",
-      "publisher": "Journal of Mathematics, Computation and Geometry of Data, 3(1), 29-57",
+      "publisher": "Mathematics, Computation and Geometry of Data, 3(1), 29–57",
       "releaseDate": "2023",
-      "website": "",
+      "website": "https://doi.org/10.4310/MCGD.2023.v3.n1.a2",
       "summary": "With Q. G. Chen and L. M. Lui."
     }
   ],

@@ -1,0 +1,21 @@
+{% assign paper_link = post.paperurl | default: "" | strip %}
+{% assign publication_year = post.date | date: "%Y" %}
+{% if include.compact %}
+<li>
+  {{ post.authors | escape }} ({{ publication_year }}).
+  {% if paper_link != "" %}<a href="{{ paper_link | escape }}">{{ post.title | escape }}</a>{% else %}{{ post.title | escape }}{% endif %}.
+  <em>{{ post.venue | escape }}</em>{% if post.publication_details %}, {{ post.publication_details | escape }}{% endif %}.
+</li>
+{% else %}
+<li class="publication-entry">
+  <h3>{% if paper_link != "" %}<a href="{{ paper_link | escape }}">{{ post.title | escape }}</a>{% else %}{{ post.title | escape }}{% endif %}</h3>
+  <p class="publication-authors">{{ post.authors | escape }}</p>
+  <p class="entry-meta"><em>{{ post.venue | escape }}</em>{% if post.publication_details %}, {{ post.publication_details | escape }}{% endif %} ({{ publication_year }}){% if post.arxivurl and post.arxivurl != "" %} · <a href="{{ post.arxivurl | escape }}">arXiv</a>{% endif %}</p>
+  {% if post.excerpt %}
+  <details class="publication-abstract">
+    <summary>Abstract</summary>
+    <div>{{ post.excerpt | markdownify }}</div>
+  </details>
+  {% endif %}
+</li>
+{% endif %}

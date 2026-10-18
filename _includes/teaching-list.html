@@ -1,0 +1,15 @@
+{% assign teaching_roles = "Instructor|Teaching Assistant" | split: "|" %}
+{% assign teaching_heading_level = include.heading_level | default: 2 %}
+{% for teaching_role in teaching_roles %}
+<h{{ teaching_heading_level }} id="{{ teaching_role | slugify }}">{{ teaching_role }}</h{{ teaching_heading_level }}>
+<ul class="experience-list">
+{% for post in site.teaching reversed %}
+  {% if post.type == teaching_role %}
+  <li>
+    <strong>{% if post.courseurl and post.courseurl != "" %}<a href="{{ post.courseurl | escape }}">{{ post.title | escape }}</a>{% else %}{{ post.title | escape }}{% endif %}</strong>
+    <div class="entry-meta">{{ post.term_label | default: post.date | escape }}</div>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+{% endfor %}

@@ -1,0 +1,9 @@
+<ul class="experience-list">
+{% for post in site.talks reversed %}
+  <li>
+    <strong>{{ post.title | escape }}</strong>
+    <div class="entry-meta">{{ post.date | date: "%Y" }} · {{ post.type | escape }}</div>
+    <p>{{ post.venue | escape }}, {{ post.location | escape }}{% if post.slidesurl and post.slidesurl != "" %} · <a href="{{ post.slidesurl | escape }}">Slides</a>{% endif %}</p>
+  </li>
+{% endfor %}
+</ul>

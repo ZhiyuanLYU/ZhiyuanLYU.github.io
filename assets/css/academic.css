@@ -1,0 +1,23 @@
+.publication-list,
+.experience-list,
+.cv-publications {
+  padding-left: 1.3rem;
+}
+.publication-list > li { padding-left: 0.25rem; margin-bottom: 1.6rem; }
+.publication-entry h3 { margin: 0 0 0.35rem; font-size: 1.05em; line-height: 1.5; }
+.publication-entry p { margin: 0.25rem 0; }
+.entry-meta { font-size: 0.9em; opacity: 0.85; line-height: 1.6; }
+.publication-abstract { margin-top: 0.5rem; font-size: 0.92em; }
+.publication-abstract summary { cursor: pointer; width: fit-content; }
+.publication-abstract summary:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+.publication-abstract[open] summary { margin-bottom: 0.5rem; }
+.publication-abstract p { line-height: 1.7; }
+.experience-list > li { margin-bottom: 1.05rem; padding-left: 0.2rem; }
+.experience-list p { margin: 0.2rem 0 0; }
+.cv-publications > li { margin-bottom: 0.9rem; }
+.sidebar .author__urls li { white-space: normal; }
+.sidebar .author__urls a { overflow-wrap: anywhere; }
+@media (max-width: 40em) {
+  .publication-list, .experience-list, .cv-publications { padding-left: 1.1rem; }
+  .publication-entry h3 { font-size: 1em; }
+}

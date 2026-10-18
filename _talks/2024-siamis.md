@@ -5,6 +5,10 @@ type: "Oral Presentation"
 venue: "SIAM Conference on Imaging Science (SIAMIS24)"
 date: 2024-01-01
 location: "Atlanta, GA, USA"
+sitemap: false
+share: false
+comments: false
+redirect_to: "/talks/"
 ---
 
 Oral presentation at SIAM Conference on Imaging Science (SIAMIS24).
